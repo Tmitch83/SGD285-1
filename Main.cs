@@ -44,7 +44,8 @@ public class SGD285_1
            new UserQuote("Kendall Wix", "At the end of this day, one shall stand, one shall fall!. O - Optimus Prime"),	
            new UserQuote("Joseph Mitchell", "Education is a weapon, whose effect depends on who holds it in his hands and whom it is aimed. - Joseph Stalin"),					
            new UserQuote("Preston Rockholt", "I am the wisest man alive, for I know one thing, and that is that I know nothing. - [attributed to] Socrates"),
-	       new UserQuote("Jonathon Huskey", "The path of least resistance is the path of the loser. -H. G. Wells")
+	       new UserQuote("Jonathon Huskey", "The path of least resistance is the path of the loser. -H. G. Wells"),
+		new UserQuote("Ronald Mitchell", "I'm the king of the world! - Titantic)
            // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list. 
            // IMPORTANT: If there is a conflict, you MUST fix it, compile to make sure 
            // your program compiles and runs locally, then push to the git repository on GitHub.
